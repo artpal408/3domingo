@@ -6,4 +6,6 @@
  * Time: 13:29
  */
 
-var_dump($_POST["Nombre"]);
+var_dump($_POST["nombre"]);
+
+$enlace
