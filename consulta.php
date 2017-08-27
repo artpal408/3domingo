@@ -8,4 +8,3 @@
 
 var_dump($_POST["nombre"]);
 
-$enlace
