@@ -1,10 +1,10 @@
-<form action="consulta.php">
+<form method="post" action="consulta.php">
 
-    <input name="nombre" type="text">
+    <input placeholder="Escriba su nombre" name="Nombre" type="text">
     <br>
-    <input name="edad" type="text">
+    <input placeholder="Escriba su edad" name="Edad" type="text">
     <br>
-    <input name="ciudad" type="text">
+    <input placeholder="Escriba su ciudad" name="Ciudad" type="text">
     <br>
 
     <input value="enviar" type="submit">
@@ -15,7 +15,7 @@
 <?php
 
 
-
+echo 'hola';
 
 
 
